@@ -1,0 +1,8 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+    },
+    "files": [
+        "src/test.ts"
+    ]
+}
